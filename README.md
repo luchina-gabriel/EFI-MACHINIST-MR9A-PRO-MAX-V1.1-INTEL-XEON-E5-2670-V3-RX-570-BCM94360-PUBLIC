@@ -1,5 +1,7 @@
 # Hackintosh, Machinist MR9A Pro Max V1.1, Intel Xeon E5 2670 V3, AMD Radeon RX 570
 
+<img width="1663" alt="Overview" src="https://github.com/user-attachments/assets/67ec1507-e6ef-405c-bd6a-195ef87082cf" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.2)
